@@ -8,7 +8,6 @@
 ``` cd mentalhealth ```
 ### migrate ###
 ``` python manage.py migrate ```
-* **NOTE**:make sure you have mysql database running on your machine,create a database "ummahacks" and migrate.
 ### running development server ###
 ``` python manage.py runserver ```
 
