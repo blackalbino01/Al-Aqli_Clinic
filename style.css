@@ -1,0 +1,77 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #6C63FF;
+}
+
+form {
+	width: 20%;
+	height: 50%;
+	background-color: white;
+	padding: 60px 20px;
+	border-radius: 10px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.login-content {
+	text-align: center;
+}
+
+
+h5 {
+	text-align: left;
+	margin-bottom: 2%;
+}
+
+.i {
+	float: left;
+	margin-left: 9%;
+	margin-right: 1%;
+}
+
+.input {
+	width: 75%;
+	padding: 10px;
+	margin-bottom: 5px;
+}
+
+a {
+	float: left;
+	margin-left: 25px;
+}
+
+.btn{	
+	width: 75%;
+	height: 12%;
+	border-radius: 5px;
+	align-items: center;
+	outline: none;
+	border: none;
+	background-color: #FF0266;
+	font-size: 1.2rem;
+	color: #fff;
+	text-transform: uppercase;
+	margin: 1rem 0;
+	cursor: pointer;
+	transition: .5s;
+}
+
+.google-btn {
+	width: 60%;
+	height: 10%;
+	border-radius: 5px;
+	align-items: center;
+	outline: none;
+	margin-top: 10px;
+	background-color: white;
+	cursor: pointer;
+	transition: .5s;
+}
+
+img {
+	margin-right: 5px;
+	vertical-align: middle;
+}
