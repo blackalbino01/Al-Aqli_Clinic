@@ -1,0 +1,90 @@
+html {
+    box-sizing: border-box;
+}
+
+*,*::before,*::after {
+    box-sizing: inherit;
+  }
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.logo {
+    float: left;
+    margin-left: 80px;
+    color: #FF0266;
+    font-size: 200%;
+}
+
+.main-nav {
+    list-style: none;
+    float: right;
+    margin-top: 30px;
+    margin-right: 120px;
+}
+
+.main-nav li { 
+    display: inline-block;
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+.main-nav a {
+    color: white;
+}
+
+.main-nav li a:link,
+.main-nav li a:visited {
+    text-decoration: none;
+}
+
+.main-nav li a:hover,
+.main-nav li a:active {
+    border-bottom: 2px solid white;
+}
+
+.sign-up-btn {
+    background-color: #FF0266;
+    padding: 7px 15px;
+    border-radius: 5px;
+}
+
+.intro-section {
+    position: absolute;
+    top: 45%;
+    left: 15%;
+}
+
+.intro-section h1 {
+    float: left;
+}
+
+.intro-section p {
+    float: left;
+    clear: left;
+    color: #585757;
+}
+
+.img-header {
+    height: 400px;
+    width: auto;
+    float: right;
+    transform: translate(+10%, -35%);
+}
+
+.wave-container {
+    position: relative;
+    background: #6C63FF;
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+  }
+
+  .wave-container > svg {
+    display: block;
+  }
+
+
+  
