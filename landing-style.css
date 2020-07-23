@@ -80,11 +80,50 @@ body {
     width: 100%;
     height: 100px;
     overflow: hidden;
-  }
+}
 
-  .wave-container > svg {
+.wave-container > svg {
     display: block;
-  }
+}
+
+.all-but-footer {
+    min-height: calc(100vh - 40px);
+}
+
+footer {
+    background-color: #6C63FF;
+    color: white;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+
+footer .row {
+    font-size: 2vmin;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+.copyright {
+    text-align: center;
+    font-size: smaller;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
+
+ 
 
 
   
