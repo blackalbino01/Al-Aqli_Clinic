@@ -6,7 +6,7 @@
           <div class="row slider-text align-items-center">
             <div class="col-md-7 col-sm-12 element-animate">
               <h1>Contact Us</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi unde impedit, necessitatibus, soluta sit quam minima expedita atque corrupti reiciendis.</p>
+              <p>Get In Touch With Our Developers.. To Help Us Improve Or Report A Bug!</p>
             </div>
           </div>
         </div>

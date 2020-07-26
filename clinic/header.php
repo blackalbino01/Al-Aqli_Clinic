@@ -40,6 +40,7 @@
                   <a class="dropdown-item active" href="doctors.php">Find Specialists</a>
                   <a class="dropdown-item active" href="specialist.php">Signup</a>
                   <a class="dropdown-item active" href="login.php">Signin</a>
+                  <a class="dropdown-item active" href="dashboard.php">Dashboard</a>
                 </div>
               </li>
               <li class="nav-item">

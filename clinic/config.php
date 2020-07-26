@@ -1,19 +1,12 @@
 <?php
-session_start();
-class Database{
-	
-	private $host  = 'localhost';
-    private $user  = 'root';
-    private $password   = "";
-    private $database  = "clinic"; 
-    
-    public function getConnection(){		
-		$conn = new mysqli($this->host, $this->user, $this->password, $this->database);
-		if($conn->connect_error){
-			die("Error failed to connect to MySQL: " . $conn->connect_error);
-		} else {
-			return $conn;
-		}
-    }
-}
+	define('db_host','localhost:3306');
+	define('db_user','root');
+	define('db_password','');
+	define('db_database','clinic');
+
+	$conn = new mysqli(db_host, db_user, db_password, db_database);
+	if(!$conn){
+		die('could not connect: '.mysqli_error());
+	}
+	mysqli_select_db($conn,db_database); 
 ?>

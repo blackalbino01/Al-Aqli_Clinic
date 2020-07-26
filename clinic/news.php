@@ -5,8 +5,9 @@
         <div class="container">
           <div class="row slider-text align-items-center">
             <div class="col-md-7 col-sm-12 element-animate">
-              <h1>News &amp; Events</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi unde impedit, necessitatibus, soluta sit quam minima expedita atque corrupti reiciendis.</p>
+              <h1>Forum &amp; Tips</h1>
+              <p>Are You Experiencing Any Mental Disorder?</p>
+              <p>This is the right place to get rid of it!!</p>
             </div>
           </div>
         </div>
@@ -25,8 +26,8 @@
               <img src="img/img_thumb_1.jpg" alt="Image Placeholder" class="img-fluid">
               <div class="media-body">
                 <span class="meta-post">December 2, 2017</span>
-                <h3 class="mt-0 text-black"><a href="#" class="text-black">Lorem ipsum dolor sit amet elit</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <h3 class="mt-0 text-black"><a href="#" class="text-black">Mental Health Education</a></h3>
+                <p>Are You Still Not Sufficient In Mental Health Education?.</p>
                 <p class="clearfix">
                   <a href="#" class="float-left">Read more</a>
                   <a href="#" class="float-right meta-chat"><span class="ion-chatbubble"></span> 8</a>
@@ -39,8 +40,8 @@
               <img src="img/img_thumb_2.jpg" alt="Image Placeholder" class="img-fluid">
               <div class="media-body">
                 <span class="meta-post">December 2, 2017</span>
-                <h3 class="mt-0 text-black"><a href="#" class="text-black">Lorem ipsum dolor sit amet elit</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <h3 class="mt-0 text-black"><a href="#" class="text-black">Quran In Mental Health</a></h3>
+                <p>How the holy Quran describe mental health.</p>
                 <p class="clearfix">
                   <a href="#" class="float-left">Read more</a>
                   <a href="#" class="float-right meta-chat"><span class="ion-chatbubble"></span> 8</a>
@@ -53,8 +54,8 @@
               <img src="img/img_thumb_3.jpg" alt="Image Placeholder" class="img-fluid">
               <div class="media-body">
                 <span class="meta-post">December 2, 2017</span>
-                <h3 class="mt-0 text-black"><a href="#" class="text-black">Lorem ipsum dolor sit amet elit</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <h3 class="mt-0 text-black"><a href="#" class="text-black">Islamic Law Behind Drug Abuse</a></h3>
+                <p>Get to know how the holy Quran And Hadith talk about the effect of drug abuse..</p>
                 <p class="clearfix">
                   <a href="#" class="float-left">Read more</a>
                   <a href="#" class="float-right meta-chat"><span class="ion-chatbubble"></span> 8</a>
@@ -70,8 +71,8 @@
               <img src="img/img_thumb_1.jpg" alt="Image Placeholder" class="img-fluid">
               <div class="media-body">
                 <span class="meta-post">December 2, 2017</span>
-                <h3 class="mt-0 text-black"><a href="#" class="text-black">Lorem ipsum dolor sit amet elit</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <h3 class="mt-0 text-black"><a href="#" class="text-black">What Is Depression</a></h3>
+                <p>Depression is also a mental disorder which is bad to our mental health.</p>
                 <p class="clearfix">
                   <a href="#" class="float-left">Read more</a>
                   <a href="#" class="float-right meta-chat"><span class="ion-chatbubble"></span> 8</a>
@@ -84,8 +85,8 @@
               <img src="img/img_thumb_2.jpg" alt="Image Placeholder" class="img-fluid">
               <div class="media-body">
                 <span class="meta-post">December 2, 2017</span>
-                <h3 class="mt-0 text-black"><a href="#" class="text-black">Lorem ipsum dolor sit amet elit</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <h3 class="mt-0 text-black"><a href="#" class="text-black">Who Is A Psychiatrist</a></h3>
+                <p>A psychiatrist is a medical doctor that specialize in mental health.</p>
                 <p class="clearfix">
                   <a href="#" class="float-left">Read more</a>
                   <a href="#" class="float-right meta-chat"><span class="ion-chatbubble"></span> 8</a>
@@ -98,8 +99,8 @@
               <img src="img/img_thumb_3.jpg" alt="Image Placeholder" class="img-fluid">
               <div class="media-body">
                 <span class="meta-post">December 2, 2017</span>
-                <h3 class="mt-0 text-black"><a href="#" class="text-black">Lorem ipsum dolor sit amet elit</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <h3 class="mt-0 text-black"><a href="#" class="text-black">How Harmful Is Alcohol To Our Mental Health</a></h3>
+                <p>Taking Alcohol Is Very Dangerous To Our Health..</p>
                 <p class="clearfix">
                   <a href="#" class="float-left">Read more</a>
                   <a href="#" class="float-right meta-chat"><span class="ion-chatbubble"></span> 8</a>
